@@ -1,8 +1,5 @@
-
 # >SHIFTNACE  
 > _"Shifting the pace, shaping the next face of creation."_  
-
-```
 
 ```
   _________.__    .__  __                __                
@@ -12,8 +9,6 @@
 /_______  /|___|  /__||__|  \____/ \___  >__|_ \\___  >__|   
         \/      \/                      \/     \/    \/       
 ```
-
-````
 
 ---
 
@@ -46,26 +41,26 @@ We’re experimenting with ideas like:
    - Backend: Node.js + Express (soon NestJS)
    - Database: PostgreSQL (for now)
    - Playground: Vercel + Supabase + GitHub Actions
-````
+```
 
 ---
 
 ### 🧠 Brainstorm Zone
 
-If you’re reading this, you might just be the kind of person who fits right in.
+If you’re reading this, you might just be the kind of person who fits right in.  
 Drop us your ideas. Crazy ones. Weird ones. The ones that make people say, *“that’s dumb”* — those are usually the ones that work.
 
-> 📧 Hit us up: **[shiftnace@gmail.com](mailto:shiftnace@gmail.com)**
+> 📧 Hit us up: **[shiftnace@gmail.com](mailto:shiftnace@gmail.com)**  
 > 🧭 Let’s shift the narrative.
 
 ---
 
 ### 🦄 A Few Working Taglines
 
-* “Shifting ideas into action.”
-* “The space where youth collide, and creation happens.”
-* “Modern minds, one platform.”
-* “Chaos → Collaboration → Creation.”
+- “Shifting ideas into action.”  
+- “The space where youth collide, and creation happens.”  
+- “Modern minds, one platform.”  
+- “Chaos → Collaboration → Creation.”  
 
 ---
 
@@ -91,10 +86,9 @@ shiftnace.shoutout();
 ### ⚙️ Work with Us
 
 If you love:
-
-* half-baked ideas that might just change the world,
-* tinkering with tech that has no rulebook,
-* or building digital chaos that somehow makes sense —
+- half-baked ideas that might just change the world,  
+- tinkering with tech that has no rulebook,  
+- or building digital chaos that somehow makes sense —  
 
 👉 Then **fork this repo**, **open an issue**, or just say hi.
 
@@ -104,15 +98,11 @@ If you love:
 
 > “The greatest startups aren’t found — they’re forged in uncertainty.”
 
-Stay tuned.
-Stay bold.
+Stay tuned.  
+Stay bold.  
 **Stay shifting.**
 
 ---
 
-🖤 *Made with caffeine, curiosity, and chaos.*
+🖤 _Made with caffeine, curiosity, and chaos._  
 © 2025 Shiftnace Technologies. All rights reserved.
-
-```
-
-
